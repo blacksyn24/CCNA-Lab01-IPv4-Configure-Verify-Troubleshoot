@@ -51,8 +51,8 @@ adresses **IPv4** sur des routeurs Cisco avec des interfaces
 
 | Interface | IP | Masque | Routeur |
 |-----------|-----|--------|---------|
-| S0/0 (DCE) | 172.16.1.1 | /26 (255.255.255.192) | R1 |
-| S0/0 | 172.16.1.2 | /26 (255.255.255.192) | R3 |
+| S0/0/0 (DCE) | 172.16.1.1 | /26 (255.255.255.192) | R1 |
+| S0/0/0 | 172.16.1.2 | /26 (255.255.255.192) | R3 |
 
 ### Interfaces Loopback R3
 
